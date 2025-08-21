@@ -1,3 +1,7 @@
+![Morgan Stanley Cover](https://media.licdn.com/dms/image/v2/D5616AQFBZXDmf40rOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722446660917?e=1758758400&v=beta&t=2q8YYMculjvT4o4QI7uvKRLmmTXJnDa7hAMv5W-FbIc)
+
+
+
 # 📈 Market Risk Price Ingestion Pipeline
 
 A cloud-native, multi-cloud data ingestion pipeline designed to extract financial market data from public APIs, store them in AWS S3, and load them into Snowflake via Azure Data Factory (ADF).
