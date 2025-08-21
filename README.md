@@ -35,19 +35,11 @@ A cloud-native, multi-cloud data ingestion pipeline designed to extract financia
 
 ```
 ms-mrisk/
-│
-├── dags/                         # For future orchestration (Airflow or Dagster)
-│   └── ingest_price_data.py
-│
-├── scripts/                      # Python scripts (ETL)
+
+├── scripts/                      # Python script (ETL)
 │   └── extract_to_s3.py
 │
-├── configs/                      # Configs for keys, regions, etc.
-│   └── config.yaml
-│
-├── docs/                         # Architecture diagrams and documentation
-│   ├── architecture_diagram.png
-│   └── data_flow.pdf
+├── architecture_diagram.png
 │
 ├── sql/                          # Snowflake DDLs
 │   ├── create_stg_prices.sql
