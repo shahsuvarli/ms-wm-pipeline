@@ -113,16 +113,6 @@ SELECT * FROM STG_PRICES WHERE SYMBOL = 'AAPL';
 
 ---
 
-## 🔍 Future Enhancements
-
-- Parameterize extract script with `--symbol` and `--date`
-- Add unit tests and logging
-- Add dbt transformations after staging
-- Add retry & alerting to ADF
-- Add dashboards (e.g., Streamlit or Looker Studio)
-
----
-
 ## 📎 Credits
 
 Built by **Elvin Shahsuvarli**  
