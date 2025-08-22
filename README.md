@@ -34,7 +34,7 @@ A cloud-native, multi-cloud data ingestion pipeline designed to extract financia
 ## 🗂 Repository Structure
 
 ```
-ms-mrisk/
+ms-wm-pipeline/
 
 ├── scripts/                      # Python script (ETL)
 │   └── extract_to_s3.py
